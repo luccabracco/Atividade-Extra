@@ -135,14 +135,14 @@ x = 7
 // Exercicio 17
 int a, b;
 
-/*
+
 scanf("%d %d", &a, &b);
 int x = a + b * 2;
 
 a = 3;
 b = 4;
 
-
+/*
 4 * 2 = 8
 3 + 8 = 11
 Seguindo ordem de prioridade, mutiplicação antes
@@ -151,14 +151,14 @@ Seguindo ordem de prioridade, mutiplicação antes
 // Exercicio 18
 int idade;
 
-/*
+
 scanf("%d", &idade);
 int maior = idade >= 18;    
 
 if idade = 20;
 if idade = 15;
 
-
+/*
 20 > 18 
 x = 1
 15 > 18
